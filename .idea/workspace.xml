@@ -2,102 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ff990e0-dc00-4587-a910-b64942be4e24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../demo-nodejs/router/applicationRouter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/aos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icomoon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/jquery.timepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/open-iconic-bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/flaticon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ionicons/fonts/ionicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ionicons/fonts/ionicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ionicons/fonts/ionicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ionicons/fonts/ionicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/ionicons/fonts/ionicons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/supreme-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/aos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap-datepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-migrate-3.0.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.animateNumber.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.easing.1.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.stellar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.timepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/detail-tour.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/home2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/home2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/list-tour-japan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/list-tour-korea.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/list-tour-singapore.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/detail-row-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/detail-row-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/detail-row-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/detail-tour-korea.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/detail-tour-singgapore.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/detail-tour.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/home2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/home2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/list-tour-da-nang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/list-tour-japan.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/list-tour-japan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/list-tour-korea.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/list-tour-phu-quoc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/list-tour-quang-ninh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/list-tour-singapore.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/showmore.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/supreme-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/project-sem1-form/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/project/travel-project/css/list-tour-japan.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/supreme-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ node/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ node/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ node/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ node/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ project-01" beforeDir="false" afterPath="$PROJECT_DIR$/../ project-01" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bt-node-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bt-node-1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project 2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project-/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project-/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project-001" beforeDir="false" afterPath="$PROJECT_DIR$/../project-001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project-11/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project-11/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project-11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project-11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/../project/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/project-sem1-form" beforeDir="false" afterPath="$PROJECT_DIR$/../project/project-sem1-form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/travel-project" beforeDir="false" afterPath="$PROJECT_DIR$/../project/travel-project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh" afterDir="false" />
+      <change afterPath="$USER_HOME$/Downloads/again-again-demo 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/detail-tour-1.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/Documents/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/html.demo/DAY4.html" beforeDir="false" afterPath="$USER_HOME$/Documents/html.demo/DAY4.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/html.demo/bt2_day1.html" beforeDir="false" afterPath="$USER_HOME$/Documents/html.demo/bt2_day1.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/html.demo/day3.html" beforeDir="false" afterPath="$USER_HOME$/Documents/html.demo/day3.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/html.demo/day3_demo.css" beforeDir="false" afterPath="$USER_HOME$/Documents/html.demo/day3_demo.css" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/html.demo/helo.html" beforeDir="false" afterPath="$USER_HOME$/Documents/html.demo/helo.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/html/index.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/asgm-jqy/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/asgm-jqy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/asgm-jqy/api.js" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/asgm-jqy/api.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/asgm-jqy/asgm-form.html" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/asgm-jqy/asgm-form.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/asgm-jqy/asgm-form.js" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/asgm-jqy/asgm-form.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/asgm-jqy/dasd.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/asgm-jqy/list-song.html" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/asgm-jqy/list-song.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/asgm-jqy/list-song.js" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/asgm-jqy/list-song.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/assignment/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/assignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/assignment/dangki.js" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/assignment/dangki.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/assignment/dangnhap.js" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/assignment/dangnhap.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/assignment/hienthibaihat.js" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/assignment/hienthibaihat.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/assignment/mp3.css" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/assignment/mp3.css" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/assignment/mp3.html" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/assignment/mp3.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/assignment/mp3.js" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/assignment/mp3.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/assignment/taobaihat.js" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/assignment/taobaihat.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/assingment-jquery/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/assingment-jquery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/assingment-jquery/index.css" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/assingment-jquery/index.css" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/bt-anh-yt/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/bt-anh-yt/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/bt-anh-yt/bt-anh-yt.css" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/bt-anh-yt/bt-anh-yt.css" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/bt-anh-yt/bt-anh-yt.html" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/bt-anh-yt/bt-anh-yt.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/bt-hat/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/bt-hat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/bt-hat/bt-hat.html" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/bt-hat/bt-hat.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/bt-hat/bt-hat.js" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/bt-hat/bt-hat.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/bt-yt/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/bt-yt/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/bt-yt/bt-yt.html" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/bt-yt/bt-yt.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/bt-yt/bt-yt.js" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/bt-yt/bt-yt.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/bt1/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/bt1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/bt2/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/bt2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/dat/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/dat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/jquery/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/jquery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/jquery/html/register.html" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/jquery/html/register.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/jquery/js/register.js" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/jquery/js/register.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/lon quay/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/lon quay/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/lon quay/quay-quay.css" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/lon quay/quay-quay.css" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/lon quay/quay-quay.html" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/lon quay/quay-quay.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/mp3/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/mp3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/mp3/mp3.css" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/mp3/mp3.css" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/mp3/mp3.html" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/mp3/mp3.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/mp3/mp3.js" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/mp3/mp3.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/new/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/new/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/new/bt1.html" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/new/bt1.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/new/bt1.js" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/new/bt1.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/thuchanh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/thuchanh/thuchanh.css" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/thuchanh/thuchanh.css" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/thuchanh/thuchanh.html" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/thuchanh/thuchanh.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/thuchanh/thuchanh.js" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/thuchanh/thuchanh.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/untitled/html_bt1.html" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/untitled/html_bt1.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/untitled/js-bt1.js" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/untitled/js-bt1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/home.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -139,16 +105,53 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-122046926">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="1" />
+          <entry key="js" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="18" />
+          <entry key="html" value="78" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="18" />
+          <entry key="HTML" value="78" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="50" />
+            <state relative-caret-position="180">
+              <caret line="30" column="90" selection-start-line="30" selection-start-column="90" selection-end-line="30" selection-end-column="90" />
               <folding>
+                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#h5#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#h5#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#h5#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -158,6 +161,58 @@
                 <element signature="n#style#0;n#div#6;n#h5#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#7;n#h5#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/detail-tour-1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="n#style#0;n#hr#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5362" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/bootstrap-datepicker.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9925">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#15#21#1" expanded="true" />
+                <element signature="e#28#35#1" expanded="true" />
+                <element signature="e#104#111#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-131214" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/home.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="593">
+              <caret line="117" selection-start-line="117" selection-end-line="117" />
             </state>
           </provider>
         </entry>
@@ -178,12 +233,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js.js" />
+        <option value="$PROJECT_DIR$/public/css/home.css" />
+        <option value="$PROJECT_DIR$/detail-tour-1.html" />
         <option value="$PROJECT_DIR$/home.html" />
       </list>
     </option>
@@ -222,6 +279,12 @@
               <item name="project-ki1" type="b2602c69:ProjectViewProjectNode" />
               <item name="project-ki1" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-ki1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-ki1" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -237,6 +300,12 @@
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="project-ki1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-ki1" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -246,6 +315,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -266,12 +336,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.detail-tour-1.html">
+    <configuration name="detail-tour-1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project-ki1/detail-tour-1.html">
+      <method v="2" />
+    </configuration>
     <configuration name="home.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/project-ki1/home.html">
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.home.html" />
+      <item itemvalue="JavaScript Debug.detail-tour-1.html" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.detail-tour-1.html" />
         <item itemvalue="JavaScript Debug.home.html" />
       </list>
     </recent_temporary>
@@ -287,23 +365,19 @@
       <option name="presentableId" value="Default" />
       <updated>1550202221249</updated>
       <workItem from="1550202222745" duration="616000" />
+      <workItem from="1550203043481" duration="2050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="616000" />
+    <option name="totallyTimeSpent" value="2666000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -311,6 +385,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -323,18 +401,61 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js.js" />
     <entry file="file://$PROJECT_DIR$/public/js/aos.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131214" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5362" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/bootstrap-datepicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9925">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#15#21#1" expanded="true" />
+            <element signature="e#28#35#1" expanded="true" />
+            <element signature="e#104#111#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detail-tour-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="n#style#0;n#hr#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="50" />
+        <state relative-caret-position="180">
+          <caret line="30" column="90" selection-start-line="30" selection-start-column="90" selection-end-line="30" selection-end-column="90" />
           <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#h5#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#h5#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#h5#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
